@@ -13,14 +13,7 @@ pop3 install jwt
 ```
 
 # Usage
-```
-from flask import *
-import datetime
-from flask_sqlalchemy import SQLAlchemy
-import pymysql
-import jwt
-
-```
+Type in the search field cryptocurrency you want to find
 
 # Examples
 When viewing the index  page, it has two functions. 1. Is the login page, 2. Is a protected page. In the former case you need to enter the login and password, in the latter case you need to write the token. Then you will see the answer on this page
