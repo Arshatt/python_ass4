@@ -3,12 +3,9 @@
 # Installation
 ```
 pip3 install  flask
-pip3 install flask_sqlalchemy
-pip3 install  mysqlclient
 pip3 install MySQLdb
 pip3 install Flask-SQLAlchemy
-pip3 install mysql-python
-pop3 install jwt
+pip3 install beautifulsoup4
 
 ```
 
@@ -16,4 +13,4 @@ pop3 install jwt
 Type in the search field cryptocurrency you want to find
 
 # Examples
-When viewing the index  page, it has two functions. 1. Is the login page, 2. Is a protected page. In the former case you need to enter the login and password, in the latter case you need to write the token. Then you will see the answer on this page
+After typing name of the cryptocurrency, click search button
